@@ -79,3 +79,20 @@ $ python main.py --dataset SHHB --model_type SACANet --backbone_class vgg19 --ma
 
 
 
+
+## References
+If you find this work or code useful, please cite:
+
+```
+@inproceedings{bai2019crowd,
+  title={Crowd counting on images with scale variation and isolated clusters},
+  author={Bai, Haoyue and Wen, Song and Gary Chan, S-H},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision Workshops},
+  pages={0--0},
+  year={2019}
+}
+```
+
+
+
+
