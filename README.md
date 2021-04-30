@@ -8,10 +8,9 @@ with multi-branch architecture are effective for only some
 narrow bands of scales, and have not captured the longrange contextual relationship due to isolated clustering. To
 address that, we propose SACANet, a novel scale-adaptive
 long-range context-aware network for crowd counting.
-SACANet consists of three major modules: the pyramid contextual module which extracts long-range contextual information and enlarges the receptive field, a scaleadaptive self-attention multi-branch module to attain high
+SACANet consists of three major modules: the pyramid contextual module which extracts long-range contextual information and enlarges the receptive field, a scale-adaptive self-attention multi-branch module to attain high
 scale sensitivity and detection accuracy of isolated clusters, and a hierarchical fusion module to fuse multi-level
-self-attention features. With group normalization, SACANet
-achieves better optimality in the training process. We have
+self-attention features. We have
 conducted extensive experiments using the VisDrone2019
 People dataset, the VisDrone2019 Vehicle dataset, and some
 other challenging benchmarks. As compared with the stateof-the-art methods, SACANet is shown to be effective, especially for extremely crowded conditions with diverse scales
