@@ -26,9 +26,9 @@ Python3.6. and the following packages are required to run the scripts:
 - Package [tensorboardX](https://github.com/lanpa/tensorboardX)
 
 
-- Dataset: please download the dataset and put images into the folder ProcessedData/[name of the dataset, SHHA or SHHB or VisDrone-People or VisDrone-Vehicle]/
+- Dataset: please download the dataset and put images into the folder ProcessedData/[name of the dataset, SHHA or SHHB or VisDrone-Vehicle or VisDrone-People]/
 
-- Download Link: [VisDrone-People](https://drive.google.com/file/d/12bCfAWEVurX6Z0RuAbegywkY7Z-UDU19/view?usp=sharing), [VisDrone-Vehicle](https://drive.google.com/file/d/19gh-ZF-FpoTNNtVh_gScRc9pFlqvktpU/view?usp=sharing), [ShanghaiTech PartA and PartB](https://www.kaggle.com/tthien/shanghaitech)
+- Download Link: [VisDrone-Vehicle](https://drive.google.com/file/d/12bCfAWEVurX6Z0RuAbegywkY7Z-UDU19/view?usp=sharing), [VisDrone-People](https://drive.google.com/file/d/19gh-ZF-FpoTNNtVh_gScRc9pFlqvktpU/view?usp=sharing), [ShanghaiTech PartA and PartB](https://www.kaggle.com/tthien/shanghaitech)
 
 - Pre-Trained Weights: please download the pre-trained weights and put the weights in the folder saves/[SHHA_best_model.pth or SHHB_best_model.pth] 
 
