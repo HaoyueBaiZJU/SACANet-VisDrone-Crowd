@@ -1,4 +1,4 @@
-# Crowd Counting on Images with Scale Variation and Isolated Clusters (Accepted by ICCVW-2019)
+# Crowd Counting on Images with Scale Variation and Isolated Clusters
 
 ## Outline
 
